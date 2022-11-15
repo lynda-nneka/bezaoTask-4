@@ -1,0 +1,15 @@
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/bin/Debug/net6.0/encryptionDecryptionKey
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/bin/Debug/net6.0/encryptionDecryptionKey.deps.json
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/bin/Debug/net6.0/encryptionDecryptionKey.runtimeconfig.json
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/bin/Debug/net6.0/encryptionDecryptionKey.dll
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/bin/Debug/net6.0/encryptionDecryptionKey.pdb
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.csproj.AssemblyReference.cache
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.AssemblyInfoInputs.cache
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.AssemblyInfo.cs
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.csproj.CoreCompileInputs.cache
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.dll
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/refint/encryptionDecryptionKey.dll
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.pdb
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/encryptionDecryptionKey.genruntimeconfig.cache
+/Users/user/Projects/encryptionDecryptionKey/encryptionDecryptionKey/obj/Debug/net6.0/ref/encryptionDecryptionKey.dll

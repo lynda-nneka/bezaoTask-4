@@ -1,0 +1,15 @@
+/Users/user/Projects/numbersInWords/numbersInWords/bin/Debug/net6.0/numbersInWords
+/Users/user/Projects/numbersInWords/numbersInWords/bin/Debug/net6.0/numbersInWords.deps.json
+/Users/user/Projects/numbersInWords/numbersInWords/bin/Debug/net6.0/numbersInWords.runtimeconfig.json
+/Users/user/Projects/numbersInWords/numbersInWords/bin/Debug/net6.0/numbersInWords.dll
+/Users/user/Projects/numbersInWords/numbersInWords/bin/Debug/net6.0/numbersInWords.pdb
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.csproj.AssemblyReference.cache
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.AssemblyInfoInputs.cache
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.AssemblyInfo.cs
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.csproj.CoreCompileInputs.cache
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.dll
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/refint/numbersInWords.dll
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.pdb
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/numbersInWords.genruntimeconfig.cache
+/Users/user/Projects/numbersInWords/numbersInWords/obj/Debug/net6.0/ref/numbersInWords.dll
